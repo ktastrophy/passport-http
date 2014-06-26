@@ -22,7 +22,7 @@
   "main": "./lib/passport-http",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport": "~0.1.3"
+    "passport": "git://github.com/KTastrophy/passport.git#master"
   },
   "devDependencies": {
     "vows": "0.6.x"
